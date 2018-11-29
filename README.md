@@ -1,7 +1,3 @@
-[coding-challenge-directions](https://mightysignal.github.io/coding-challenge-directions/)
-==========================================================================================
-
-![MightySignal Logo](/coding-challenge-directions/mighty_signal_logo.png)
 
 Background
 ----------
