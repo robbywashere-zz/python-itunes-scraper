@@ -2,7 +2,7 @@
 Background
 ----------
 
-MightySignal provides a window into the black box of the mobile app world by finding high-value signals for sales and marketing teams. As part of our awesome backend stack, we regularly scrape app metadata–such as app names, ratings, and descriptions–from public app pages. For this challenge, we want you to implement your own mini version of this scraper!
+***** provides a window into the black box of the mobile app world by finding high-value signals for sales and marketing teams. As part of our awesome backend stack, we regularly scrape app metadata–such as app names, ratings, and descriptions–from public app pages. For this challenge, we want you to implement your own mini version of this scraper!
 
 Instructions
 ------------
@@ -43,11 +43,3 @@ Submission
 ----------
 
 *   When you’re finished, add `jasonlew` as a collaborator to your GitHub project. If you didn’t use GitHub, just ZIP up the project and attach it to the email (see below).
-*   Email [founders@mightysignal.com](mailto:founders@mightysignal.com) with the following information:
-    *   `MightySignal Coding Challenge` as the Subject
-    *   In the email body, please include:
-        *   Your name
-        *   Link to your GitHub repository
-*   We’ll run your code against our own inputs for functionality, look at the code for quality, and get back to you soon!
-
-
